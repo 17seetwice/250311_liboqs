@@ -225,3 +225,4 @@ Research projects which developed specific components of OQS have been supported
 # 0309_kpqc_liboqs
 # 250311_liboqs
 # 250311_liboqs
+# 250311_liboqs
